@@ -1,5 +1,4 @@
 # POTATO
-![alt text](../main/FILES/IMAGES/POTATO.png "Logo - POTATO")
 ## *"Where Scripts, Are More Powerful."*
 # FILES
 ## SCRIPTS
