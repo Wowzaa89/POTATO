@@ -1,4 +1,6 @@
 # POTATO
-## *"Where FE Scripts, Are More Powerful."*
-# Files
-[Hathub](../FILES/SCRIPTS/HATHUB.lua "HATHUB.lua")
+## *"Where Scripts, Are More Powerful."*
+# FILES
+## SCRIPTS
+- [Hathub](../FILES/SCRIPTS/HATHUB.lua)
+- [CompetitiveJudge2389](https://www.reddit.com/user/CompetitiveJudge2389/)'s [c00lgui](../FILES/SCRIPTS/CJsc00lgui.md)
