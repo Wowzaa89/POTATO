@@ -1,4 +1,4 @@
 # POTATO
 ## *"Where FE Scripts, Are More Powerful."*
 # Files
-HATHUB
+[Hathub](../FILES/SCRIPTS/HATHUB.lua "HATHUB.lua")
