@@ -3,4 +3,4 @@
 # FILES
 ## SCRIPTS
 - [Hathub](../FILES/SCRIPTS/HATHUB.lua)
-- [CompetitiveJudge2389](https://www.reddit.com/user/CompetitiveJudge2389/)'s [c00lgui](../FILES/SCRIPTS/CJsc00lgui.md)
+- [CompetitiveJudge2389](https://www.reddit.com/user/CompetitiveJudge2389/)'s [c00lgui](..FILES/SCRIPTS/CJsc00lgui.md)
