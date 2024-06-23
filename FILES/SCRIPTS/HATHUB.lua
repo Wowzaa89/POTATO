@@ -1,4 +1,12 @@
+# HatHub
+## Description
+A Hub Gui for making hands and some very, VERY offensive planes, and some normal planes.
 
+## LOADER CODE
+NO LOADER CODE YET
+
+## SCRIPT CODE
+```lua
 local ScreenGui = Instance.new("ScreenGui")
 local TextButton = Instance.new("TextButton")
 local UICorner = Instance.new("UICorner")
@@ -10458,4 +10466,4 @@ local function EREBEG_fake_script() -- Main.Drag
 	script.Parent.Active = true
 	script.Parent.Draggable = true
 end
- 
+```
